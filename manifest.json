@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "name": "High Mag. Port 1",
+    "umPerPx": 0.53,
+    "images": [
+      {
+        "file": "series/High Mag. Port 1__highmag/000um.jpg",
+        "um": 0.0
+      },
+      {
+        "file": "series/High Mag. Port 1__highmag/025um.jpg",
+        "um": 25.0
+      },
+      {
+        "file": "series/High Mag. Port 1__highmag/050um.jpg",
+        "um": 50.0
+      },
+      {
+        "file": "series/High Mag. Port 1__highmag/075um.jpg",
+        "um": 75.0
+      }
+    ]
+  },
+  {
+    "name": "Low Mag. Port 1 Lugol",
+    "umPerPx": 1.34,
+    "images": [
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/000um.jpg",
+        "um": 0.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/025um.jpg",
+        "um": 25.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/050um.jpg",
+        "um": 50.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/075um.jpg",
+        "um": 75.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/100um.jpg",
+        "um": 100.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/125um.jpg",
+        "um": 125.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/150um.jpg",
+        "um": 150.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/175um.jpg",
+        "um": 175.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/200um.jpg",
+        "um": 200.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/225um.jpg",
+        "um": 225.0
+      },
+      {
+        "file": "series/Low Mag. Port 1 lugol__lowmag/250um.jpg",
+        "um": 250.0
+      }
+    ]
+  },
+  {
+    "name": "Med Mag. Port 1",
+    "umPerPx": 0.75,
+    "images": [
+      {
+        "file": "series/Med Mag. Port 1__medmag/000um.jpg",
+        "um": 0.0
+      },
+      {
+        "file": "series/Med Mag. Port 1__medmag/025um.jpg",
+        "um": 25.0
+      },
+      {
+        "file": "series/Med Mag. Port 1__medmag/050um.jpg",
+        "um": 50.0
+      },
+      {
+        "file": "series/Med Mag. Port 1__medmag/075um.jpg",
+        "um": 75.0
+      },
+      {
+        "file": "series/Med Mag. Port 1__medmag/100um.jpg",
+        "um": 100.0
+      },
+      {
+        "file": "series/Med Mag. Port 1__medmag/125um.jpg",
+        "um": 125.0
+      },
+      {
+        "file": "series/Med Mag. Port 1__medmag/150um.jpg",
+        "um": 150.0
+      }
+    ]
+  },
+  {
+    "name": "Med. Mag. Pollen 1",
+    "umPerPx": 0.75,
+    "images": [
+      {
+        "file": "series/Med. Mag. Pollen 1__medmag/000um.jpg",
+        "um": 0.0
+      },
+      {
+        "file": "series/Med. Mag. Pollen 1__medmag/025um.jpg",
+        "um": 25.0
+      },
+      {
+        "file": "series/Med. Mag. Pollen 1__medmag/050um.jpg",
+        "um": 50.0
+      },
+      {
+        "file": "series/Med. Mag. Pollen 1__medmag/075um.jpg",
+        "um": 75.0
+      },
+      {
+        "file": "series/Med. Mag. Pollen 1__medmag/100um.jpg",
+        "um": 100.0
+      },
+      {
+        "file": "series/Med. Mag. Pollen 1__medmag/125um.jpg",
+        "um": 125.0
+      },
+      {
+        "file": "series/Med. Mag. Pollen 1__medmag/150um.jpg",
+        "um": 150.0
+      }
+    ]
+  }
+]
